@@ -1,5 +1,4 @@
 # space-zoom
-atirar e sobreviver
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
